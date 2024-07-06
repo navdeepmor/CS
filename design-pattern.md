@@ -32,5 +32,4 @@
     - Visitor
 
 # Solid Design Principles
- -  
-
+ -   
