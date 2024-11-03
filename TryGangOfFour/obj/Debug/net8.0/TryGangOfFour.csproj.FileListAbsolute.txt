@@ -1,0 +1,15 @@
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\bin\Debug\net8.0\TryGangOfFour.exe
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\bin\Debug\net8.0\TryGangOfFour.deps.json
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\bin\Debug\net8.0\TryGangOfFour.runtimeconfig.json
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\bin\Debug\net8.0\TryGangOfFour.dll
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\bin\Debug\net8.0\TryGangOfFour.pdb
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.AssemblyInfoInputs.cache
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.AssemblyInfo.cs
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.csproj.CoreCompileInputs.cache
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.sourcelink.json
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.dll
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\refint\TryGangOfFour.dll
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.pdb
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\TryGangOfFour.genruntimeconfig.cache
+C:\Users\navdeep.m\OneDrive - Technovert\Desktop\computer-science\TryGangOfFour\obj\Debug\net8.0\ref\TryGangOfFour.dll
